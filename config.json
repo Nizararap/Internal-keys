@@ -1,6 +1,7 @@
 {
   "features": {
-    "aimbot": true,
+    "aimbot": false,
+    "prediction": false,
     "radar": true,
     "combo": false,
     "esp_circle": true,
@@ -10,8 +11,6 @@
     "esp_monster": true,
     "alert_monster_hp": true,
     "alert_enemy_ulti": true,
-    "disable_shadows": true,
-    "disable_aa": true,
     "ling": true,
     "retribution": true,
     "lock_hero": true

@@ -1,6 +1,6 @@
 {
   "features": {
-    "aimbot": true,
+    "aimbot": false,
     "radar": true,
     "combo": true,
     "esp_circle": true,

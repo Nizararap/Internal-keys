@@ -1,1 +1,12 @@
-8EJFOVTioAYn2eul8ZcT4f+QV72Se9DEZJ1ISksJW6Q=
+MonToolkit - SoEncryptor key info
+================================
+Original file: libdexkit.so
+Encrypted file: libdexkit.so.enc
+Cipher: AES-256-CTR
+IV: first 16 bytes of libdexkit.so.enc
+
+AES-256 key (Base64):
+ft4/eiLFwmdFJkqOSSHiPWlMpgjP3hhpPddAL5BI1vM=
+
+Keep this file safe and private. Anyone with this key can decrypt libdexkit.so.enc.
+Without it, libdexkit.so.enc can never be decrypted again.
